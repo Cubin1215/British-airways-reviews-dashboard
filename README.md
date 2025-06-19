@@ -3,4 +3,4 @@ Tableau dashboard on British airways dataset displaying reviews of different ser
 
 ![image](https://github.com/user-attachments/assets/d38bcdd5-4a2a-4e13-8319-e6b22fd764ea)
 
-Link for access: [tTableau Dashboard](https://public.tableau.com/app/profile/pranav.azad/viz/Airplanereview/Dashboard1)
+Link for access: [Tableau Dashboard](https://public.tableau.com/app/profile/pranav.azad/viz/Airplanereview/Dashboard1)
